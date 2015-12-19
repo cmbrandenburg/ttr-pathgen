@@ -1,0 +1,112 @@
+Vancouver - Calgary: 3 wild
+Vancouver - Seattle: 1 wild, 1 wild
+
+Seattle - Calgary: 4 wild
+Seattle - Helena: 6 yellow
+Seattle - Portland: 1 wild, 1 wild
+
+Portland - Salt Lake City: 6 blue
+Portland - San Francisco: 5 green, 5 pink
+
+San Francisco - Salt Lake City: 5 orange, 5 white
+San Francisco - Los Angeles: 3 yellow, 3 pink
+
+Los Angeles - Las Vegas: 2 wild
+Los Angeles - Phoenix: 3 wild
+Los Angeles - El Paso: 6 dark
+
+Las Vegas - Salt Lake City: 3 orange
+
+Calgary - Winnipeg: 6 white
+Calgary - Helena: 4 wild
+
+Helena - Winnipeg: 4 blue
+Helena - Duluth: 6 orange
+Helena - Omaha: 5 red
+Helena - Denver: 4 green
+Helena - Salt Lake City: 3 pink
+
+Salt Lake City - Denver: 3 red, 3 yellow
+
+Phoenix - Denver: 5 white
+Phoenix - Santa Fe: 3 wild
+Phoenix - El Paso: 3 wild
+
+Denver - Omaha: 4 pink
+Denver - Kansas City: 4 dark, 4 orange
+Denver - Oklahoma City: 4 red
+Denver - Santa Fe: 2 wild
+
+Santa Fe - Oklahoma City: 3 blue
+Santa Fe - El Paso: 2 wild
+
+El Paso - Oklahoma City: 5 yellow
+El Paso - Dallas: 4 red
+El Paso - Houston: 6 green
+
+Winnipeg - Sault St. Marie: 6 wild
+Winnipeg - Duluth: 4 dark
+
+Duluth - Sault St. Marie: 3 wild
+Duluth - Toronto: 6 pink
+Duluth - Chicago: 3 red
+Duluth - Omaha: 2 wild, 2 wild
+
+Omaha - Chicago: 4 blue
+Omaha - Kansas City: 1 wild, 1 wild
+
+Kansas City - Saint Louis: 2 blue, 2 pink
+Kansas City - Oklahoma City: 2 wild, 2 wild
+
+Oklahoma City - Little Rock: 2 wild
+Oklahoma City - Dallas: 2 wild, 2 wild
+
+Dallas - Little Rock: 2 wild
+Dallas - Houston: 1 wild, 1 wild
+
+Houston - New Orleans: 2 wild
+
+Sault St. Marie - Montreal: 5 dark
+Sault St. Marie - Toronto: 2 wild
+
+Chicago - Toronto: 4 white
+Chicago - Pittsburgh: 3 orange, 3 dark
+Chicago - Saint Louis: 2 green, 2 white
+
+Saint Louis - Pittsburgh: 5 green
+Saint Louis - Nashville: 2 wild
+Saint Louis - Little Rock: 2 wild
+
+Little Rock - Nashville: 3 white
+Little Rock - New Orleans: 3 green
+
+New Orleans - Atlanta: 4 yellow, 4 orange
+New Orleans - Miami: 6 red
+
+Nashville - Pittsburgh: 4 yellow
+Nashville - Raleigh: 3 dark
+Nashville - Atlanta: 1 wild
+
+Atlanta - Raleigh: 2 wild, 2 wild
+Atlanta - Charleston: 2 wild
+Atlanta - Miami: 5 blue
+
+Toronto - Montreal: 3 wild
+Toronto - Pittsburgh: 2 wild
+
+Pittsburgh - New York: 2 white, 2 green
+Pittsburgh - Washington: 2 wild
+Pittsburgh - Raleigh: 2 wild
+
+Raleigh - Washington: 2 wild, 2 wild
+Raleigh - Charleston: 2 wild
+
+Charleston - Miami: 4 pink
+
+Montreal - Boston: 2 wild, 2 wild
+Montreal - New York: 3 blue
+
+Boston - New York: 2 yellow, 2 red
+
+New York - Washington: 2 orange, 2 dark
+
